@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IngresoCDA.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IngresoCDA.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IngresoCDA.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.IngresoCDA.props",
+      "PackagePath": "build\\IngresoCDA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IngresoCDA.props",
+      "PackagePath": "buildMultiTargeting\\IngresoCDA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.IngresoCDA.props",
+      "PackagePath": "buildTransitive\\IngresoCDA.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
