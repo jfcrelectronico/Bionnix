@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\IngresoCDA.csproj": {}
+    "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\IngresoCDA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\IngresoCDA.csproj": {
+    "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\IngresoCDA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\IngresoCDA.csproj",
+        "projectUniqueName": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\IngresoCDA.csproj",
         "projectName": "IngresoCDA",
-        "projectPath": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\IngresoCDA.csproj",
-        "packagesPath": "C:\\Users\\ruizguio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\obj\\",
+        "projectPath": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\IngresoCDA.csproj",
+        "packagesPath": "C:\\Users\\jfcr\\.nuget\\packages\\",
+        "outputPath": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ruizguio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jfcr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

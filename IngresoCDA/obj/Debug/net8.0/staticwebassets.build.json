@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4s0K/Wjw9pFbqa+3wsNPiZpmn6QK2v/3VuWv+ixxOq0=",
+  "Hash": "5Mxx9jKxosBEhXjbLiKhU2qtVfuabMrnDJZRfM3jIHU=",
   "Source": "IngresoCDA",
   "BasePath": "_content/IngresoCDA",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "IngresoCDA\\wwwroot",
       "Source": "IngresoCDA",
-      "ContentRoot": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\wwwroot\\",
+      "ContentRoot": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\wwwroot\\",
       "BasePath": "_content/IngresoCDA",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IngresoCDA.styles.css",
+      "Identity": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IngresoCDA.styles.css",
       "SourceId": "IngresoCDA",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/IngresoCDA",
       "RelativePath": "IngresoCDA.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IngresoCDA.styles.css"
+      "OriginalItemSpec": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IngresoCDA.styles.css"
     },
     {
-      "Identity": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IngresoCDA.bundle.scp.css",
+      "Identity": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IngresoCDA.bundle.scp.css",
       "SourceId": "IngresoCDA",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/IngresoCDA",
       "RelativePath": "IngresoCDA.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IngresoCDA.bundle.scp.css"
+      "OriginalItemSpec": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IngresoCDA.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\wwwroot\\app.css",
+      "Identity": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\wwwroot\\app.css",
       "SourceId": "IngresoCDA",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\wwwroot\\",
+      "ContentRoot": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\wwwroot\\",
       "BasePath": "_content/IngresoCDA",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "IngresoCDA",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\wwwroot\\",
+      "ContentRoot": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\wwwroot\\",
       "BasePath": "_content/IngresoCDA",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "IngresoCDA",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\wwwroot\\",
+      "ContentRoot": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\wwwroot\\",
       "BasePath": "_content/IngresoCDA",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\wwwroot\\favicon.png",
+      "Identity": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\wwwroot\\favicon.png",
       "SourceId": "IngresoCDA",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ruizguio\\Documents\\bionnix\\IngresoCDA\\wwwroot\\",
+      "ContentRoot": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\wwwroot\\",
       "BasePath": "_content/IngresoCDA",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\wwwroot\\images\\icono.ico",
+      "SourceId": "IngresoCDA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\documentos\\perimetral\\SMARTGRIDAPP\\IngresoCDA\\wwwroot\\",
+      "BasePath": "_content/IngresoCDA",
+      "RelativePath": "images/icono.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icono.ico"
     }
   ]
 }
