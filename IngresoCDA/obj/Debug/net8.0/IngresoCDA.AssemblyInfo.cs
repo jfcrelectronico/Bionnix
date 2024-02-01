@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IngresoCDA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64295ac5cbfe73766b7222e3941e5c4d7ce017b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c46a2d06b3094e94c58e6d984ac63ba8cc672e6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("IngresoCDA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IngresoCDA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
